@@ -1,24 +1,3 @@
-# projeto_burger
+# ProjetoBurger
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Um projeto teste que eu fiz pra consolidar os conceitos do Vue 3, e no que difere do Vue 2.
